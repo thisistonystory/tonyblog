@@ -3,7 +3,7 @@
 Have you ever wondered if someone is tracking your every move on the Internet? The answer may surprise you: It's very possible! And one of the secret "tools" that websites use to identify and track you is the **browser fingerprint**—the unique "fingerprint" of your browser.
 
 ## **What is a browser fingerprint?**
-A browser fingerprint is a collection of information about a user's browser and device, collected and used by websites to create a unique "print." This "print" helps websites distinguish you from billions of other users on the Internet, even when you are not logged into any account.
+A [browser fingerprint](https://hidemyacc.com/browser-fingerprint) is a collection of information about a user's browser and device, collected and used by websites to create a unique "print." This "print" helps websites distinguish you from billions of other users on the Internet, even when you are not logged into any account.
 
 So, how is a browser fingerprint different from a cookie? While a cookie is a small piece of code stored on your browser to track your activity on a particular website, a browser fingerprint is much more complex. It consists of a variety of different elements, forming a unique and much more stable "fingerprint" than a cookie.
 
